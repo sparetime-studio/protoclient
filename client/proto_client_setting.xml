@@ -1,0 +1,5 @@
+<setting>
+    <net ip="192.168.1.234" port="9082"/>
+    <login role_id="2222222" account_id="33333333333"/>
+    <proto path="F:\projects\server\trunck\src\lib\proto"/>
+</setting>
